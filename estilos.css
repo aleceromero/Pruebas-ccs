@@ -1,0 +1,13 @@
+body {
+    background-color: #DAF7A6;
+    font-family: 'Lucida Sans';
+    font-style: normal;
+    font-size: medium;
+    padding: 5px 10px;
+}
+h1 {
+    color: #D4AC0D;
+    margin-left: 40px;
+}
+
+#dimension {width: 200px; height: 400px;}
